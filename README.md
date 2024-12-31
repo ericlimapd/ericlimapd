@@ -1,6 +1,6 @@
 # Olá! 👋
 
-## Meu nome é Eric Lima, sou um Desenvolvedor Full-Stack 👨‍💻
+ Meu nome é Eric Lima, sou um Desenvolvedor Full-Stack 👨‍💻
 
 - 🚀 Desenvolvendo o futuro, um código por vez.
 - 🌱 Aprofundando meus conhecimentos em **JavaScript**, **ReactJS** e **TypeScript**.
